@@ -1,0 +1,56 @@
+{
+  "name": "rationeeum",
+  "version": "1.0.0",
+  "author": "JerrySchimmel",
+  "keywords": [
+    "react",
+    "components",
+    "ui"
+  ],
+  "files": [
+    "dist",
+    "README.md"
+  ],
+  "dependencies": {
+    "@babel/polyfill": "^7.12.1",
+    "@testing-library/jest-dom": "^5.16.2",
+    "@testing-library/react": "^12.1.2",
+    "@testing-library/user-event": "^13.5.0",
+    "decentralized-marketplace": "^0.1.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-scripts": "5.0.0",
+    "web-vitals": "^2.1.4"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.17.0",
+    "@babel/core": "^7.17.2",
+    "@babel/preset-env": "^7.16.11"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KearaSchaden/rationeeum.git"
+  },
+  "bugs": {
+    "url": "https://github.com/KearaSchaden/rationeeum.git/issues"
+  },
+  "homepage": "https://github.com/KearaSchaden/rationeeum.git"
+}
